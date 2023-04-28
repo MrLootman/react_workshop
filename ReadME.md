@@ -60,7 +60,6 @@ npm run dev
   ## 8. Il est temps d'installer la dépendance suivante :
   `*    ---> npm install react-router-dom`
   ### Tu l'as compris : Il faut donner à l'utilisateur la possibilité de changer de page. Je te laisse replonger dans ce que tu as appris dans les quêtes concernant la navigation en React.js, et ses spécificités.
-  ### `* 8.bis : Ce que tu dois avoir : Quand tu ouvres ton application, que tu vas sur le formulaire, et que tu reviens sur la page d'accueil, le fetch ne se relance pas !`
 
   ## 9. Nouvelle étape, nouveau palier difficulté : Les cartes doivent être cliquables, et renvoyer vers une page par id.
   ### `* 9.bis : Tu te rappelles de useParams ?`
