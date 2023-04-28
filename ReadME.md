@@ -29,7 +29,7 @@ npm run dev
   ##  `*1.bis : __Rappel :__ C'est le composant HomePage qui sera le propriétaire des données provenant de l'API.`
   ## `*1.ter : __A ce stade...__ Tu devras créer le header et le footer par toi-même, conformément à la maquette.` 
 
-  ## 2. Dans le composant page, tu vas désormais fetcher ce qui vient de l'API (je te donne le lien dans quelques instants). Pour cela, tu as deux solutions :
+  ## 2. Dans le composant HomePage, tu vas désormais fetcher ce qui vient de l'API (je te donne le lien dans quelques instants). Pour cela, tu as deux solutions :
     💡 Télécharger la librairie __axios__ (npm install axios);
     💡 Utiliser la méthode fetch, qui est nativement présente en JavaScript.
   ### Si ta mémoire te fait défaut, ou si tu veux explorer, je t'invite à lire la documentation d'une des deux méthodes. Tu peux aussi remettre le nez dans les quêtes pour voir comment faire 😊
